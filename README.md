@@ -1,1 +1,1 @@
--------------- >> http://www.mithatgogebakan.com/
+http://www.mithatgogebakan.com/
