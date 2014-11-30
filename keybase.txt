@@ -1,1 +1,82 @@
-ewd
+==================================================================
+https://keybase.io/mithatgogebakan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mithatgogebakan.com
+  * I am mithatgogebakan (https://keybase.io/mithatgogebakan) on keybase.
+  * I have a public key with fingerprint C099 1F80 8B8F 6840 EEEA  5429 33E9 637B 1D42 F31D
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.3"
+        },
+        "key": {
+            "fingerprint": "c0991f808b8f6840eeea542933e9637b1d42f31d",
+            "host": "keybase.io",
+            "key_id": "33E9637B1D42F31D",
+            "uid": "5cea7a9b0caab51acd29954ce2d85000",
+            "username": "mithatgogebakan"
+        },
+        "merkle_root": {
+            "ctime": 1417316093,
+            "hash": "b2d53d8ea35320b13063a37a9a967b2718dcfcdec8676a21d4cda55226373e8dd5b53b44454072dea7b2b5084e44de28fcb33a201dca20e9667c3c17d4614bf6",
+            "seqno": 99953
+        },
+        "service": {
+            "hostname": "mithatgogebakan.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1417316375,
+    "expire_in": 157680000,
+    "prev": "6c936582fd3da587777e68c8cce5a10f7584a28a10bbdd995f6d732bd64eea3e",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFtUn9QFFUcP06FgVRIDUOhYB2rq/Pc3bc/L4Q0ZMqSgdAEMa7dfe/uNrjb6+6A
+DgabBmfy0BizSRkGRlEDPJBKK0TJfklgUBqYIjoyGlbMMFMTaBkovWVoypneH2/e
+7vt8P9/P5/O+u+bNMhjDwIhSlrBmLCGsZ0Q2bCjdvriMkDUYIKxlhFKoIrdfP7kl
+FyKsRAEKyJIPWVQt0a1BZHnFlziDMRPFyOtTNTdGkRbeAohysw7Xi+2q24G8Hq+q
+cxEKKYqUXSAFWbBzAkMihCSWoUUAkMgBXqYgQ9sBBTGlU/P57+lKTHPaVIj/ArBW
+x6+h0hg6HVBp+K5o+oJVkMRLokwqkiSzlKRAWhRZRkE0FFiSJHWgD3lnLLlUv1Py
+OzQHkqUCya3LdiFvQSGyeTVt2rviV3UkxVA8oDhSBFiY5HPiWpmGLIACkgALaFKm
+AMkBCeDeksjxMs1TAlTsCkSKwPGcRGNnCpRYlqaxboAECFmZBTLDMCxD8jTEsmVa
+ZkmBQQwDES3YFRkAiSYpqOAdx8PxClAoHjIcxch2DjvxoVfdGmEVsUNQrn96i1UF
+6bL18P7fo0XRXLjU49X8mqIVYoDT7/dYifITZsIf8OgVJUi2zXDZZNUN8Qv+94kp
+3OreWADPmgn0mkf1IpuqI1ieE3DYpN4HFWNKThEBxwq0HQIcgsDjhThBERQFsRJF
+2nlWYCRawEdZhhD7sXOQB7QMOQZPCED/mmWwTMmBKX2qwy35i7yIKA8a42cbwoyG
+8DlGfYYNUZEx/wz2+fjou49UfxEHr95+ccVkaCjn9yNNtZNdSYlq3M3z47bIkmMv
+ja9I6Fj449i5rfc99sI3jsqG4fl9v1w7zbla3nI5068UPG4UMpYF8ou35uxgghse
+DgYn3qws6B4/tG/v/OPionWpXbVJrT2RUtLG6NL+2KnLx9/9dt+gcOzMiUv1R88c
+Tx75I7zm7dMb4hd3pp+M7551cv2Cy/lNhqJA65bhnz+/mNu1LeXG1ER/e2fVrs70
+oaDpwnNzvjMSY+Y7EQ2r9vqf6A0cYT5utux4h4lZwN1fE/bVJsYYO3QmxTUS7AGt
+tT/If9aE5q5dsWRPVguyDUzmbZqsFw9/lF1OjZUGHg0/FUFXLo1dmtuRtWNJaKqu
+cV3+xoqnk0zRzyw/e8hRd+VgXfrsTc8OvlGVPfX8SF7s7sC5iAOcVR0+uH1eDHFp
+Nv1Jp+m9bY5lOwc7O+5cy4XANLc5OTR6KqXus77mB7/3tpwmc/KS94+eun73L9Pk
+cHe95inqHW9qvOD4MERmPnmnYWdGWtzE0cqOk2GgxPD6173tG0OVZSn+25mxJsvN
+qCzvYG734YHVbcGYvuCt9Xly284218D11DjDy2m7byyHQmNfxdkOw/tf/sa64s3D
+qVGJ1Ueso879m1ui2zZfvPqAaWXfqqoPfv0pI/sAlZnlcVHm3pW38vcELMntbP+W
+ik8fWrSw+txQcdKhp3r+Bg==
+=m+Bw
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mithatgogebakan
+
+==================================================================
