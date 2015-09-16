@@ -294,7 +294,9 @@ pre code {
 }
 
 
-
+.clear {
+	clear: both;
+}
 
 
 
