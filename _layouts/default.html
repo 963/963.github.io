@@ -9,12 +9,18 @@
     <div class="container content">
       <div id="navbar" class="bound">
 
-        
-          <a href="/" title="Home">{{ site.title }}</a>
+        <div data-id="idblog" class="navitem navitem-first navitem-current"><a href="/" title="Home">Blog</a></div>
+          
 
           {% for page in site.pages_list %}
-              <div class="navitem"><a href="{{ page[1]  }}">{{ page[0] }}</a></div>
+              <div class="navitem">
+              	
+              	&nbsp;&nbsp;&nbsp;<small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
+              	
+              	</div>
           {% endfor %}
+          
+          <div data-id="idlinkedin" class="navitem navitem-last"><a href="https://tr.linkedin.com/pub/mithat-g%C3%B6gebakan/7b/146/925/en">LinkedIn</a></div>
 
            <div class="clear"></div>
 		
