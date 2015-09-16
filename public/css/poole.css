@@ -194,6 +194,24 @@ h4, h5, h6 {
     float: left;
 }
 
+    .head, .headerright, .description, .add, #headername, .position {
+        text-align: center;
+    }
+
+    h1, .description, .position, .add {
+        font-size: inherit;
+        margin: 0px;
+        text-align: center;
+    }
+
+    .add {
+        margin-bottom: 10px;
+    }
+
+    .bound, .headerleft, #divbodyholder {
+        width: 100% !important;
+    }
+
 
 
 /* Body text */
