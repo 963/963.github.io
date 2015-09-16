@@ -100,6 +100,45 @@ h4, h5, h6 {
   font-size: 1rem;
 }
 
+.headerbig {
+    text-shadow: 1px 1px #ccc;
+}
+
+.head {
+	width: 660px;
+	margin: 0px auto;
+	padding-top: 14px;
+	padding-bottom: 14px;
+}
+
+
+.headerright {
+	margin: 10px auto 0 auto;
+	float: right;
+    width: 521px;
+    padding-left: 24px;
+}
+
+.headerleft {
+	width: 115px;
+	margin: auto;
+	float: left;
+}
+
+.foto {
+    margin-top: 12px;
+    width: 86px;
+    height: 86px;
+}
+
+#headername {
+    float: left;
+}
+
+#email a, .email a:visited {
+	color: #000;
+}
+
 /* Body text */
 p {
   margin-top: 0;
