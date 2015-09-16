@@ -139,6 +139,64 @@ h4, h5, h6 {
 	color: #000;
 }
 
+
+#text-foto {
+    position: absolute;
+    bottom: 24px;
+    left: 24px;
+    color: white;
+    font-weight: bold;
+    background: rgb(0, 0, 0); /* fallback color */
+    background: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+}
+
+.nomargin {
+	margin: 0;
+}
+
+.keywords {
+	font-style: italic;
+	font-size: small;
+	font-family: Courier New, Courier, monospace;
+}
+
+.add {
+	font-size: 12pt;
+	text-align: right;
+	font-style: normal;
+    margin-top: 20px;
+}
+
+.name {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.position {
+	font-size: 18pt;
+}
+
+.subposition {
+    font-size: 14pt;
+}
+
+.description {
+	margin-top: 10px;
+	border-top: solid 1px #666;
+    font-weight: bold;
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+}
+
+#headername {
+    float: left;
+}
+
+#email a, .email a:visited {
+	color: #000;
+
 /* Body text */
 p {
   margin-top: 0;
