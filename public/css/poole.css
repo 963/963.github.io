@@ -582,7 +582,11 @@ a.pagination-item:hover {
     border-top-right-radius:    4px;
     border-bottom-right-radius: 4px;
   }
-  body {
+ 
+}
+
+@media only screen and (max-device-width: 480px) {
+    body {
         padding: 20px;
     }
 
@@ -672,5 +676,5 @@ a.pagination-item:hover {
     ul, ol {
         margin-left: 8px !important;
     }
-    
+
 }
