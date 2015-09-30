@@ -582,4 +582,95 @@ a.pagination-item:hover {
     border-top-right-radius:    4px;
     border-bottom-right-radius: 4px;
   }
+  @media only screen and (max-device-width: 480px) {
+    body {
+        padding: 20px;
+    }
+
+    #navbar, .headerbig, #footer, .head, #headername, .headerright {
+        width: 100%;
+        padding: 0px !important;
+    }
+
+    .foto {
+        margin: 0px;
+    }
+
+    .content p, h4 {
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+    }
+
+    .content p {
+        overflow: hidden;
+    }
+
+    .navitem {
+        width: auto;
+        float: none;
+        border-radius: 4px;
+        margin-bottom: 6px;
+    }
+
+    .head, .headerright, .description, .add, #headername, .position {
+        text-align: center;
+    }
+
+    h1, .description, .position, .add {
+        font-size: inherit;
+        margin: 0px;
+        text-align: center;
+    }
+
+    .add {
+        margin-bottom: 10px;
+    }
+
+    .bound, .headerleft, #divbodyholder {
+        width: 100% !important;
+    }
+
+    #cookieBanner {
+        width: 100% !important;
+        font-size: inherit;
+        margin: 0;
+        margin-bottom: 12px;
+    }
+
+
+    .headerleft, .headerright {
+        float: none;
+    }
+
+    img, object, embed, iframe {
+        width: 100%;
+        height: auto;
+    }
+
+    #about-foto {
+        background-size: cover;
+        height: 180px;
+        width: 100%;
+    }
+    
+    #text-foto {
+        bottom: 6px;
+        left: 6px;
+        padding: 6px;
+    }
+
+    * {
+        max-width: 480px;
+    }
+
+    blockquote {
+        margin-right: 0;
+        padding: 4px;
+        padding-left: 8px;
+        margin-bottom: 10px;
+    }
+
+    ul, ol {
+        margin-left: 8px !important;
+    }
 }
