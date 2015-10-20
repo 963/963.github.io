@@ -194,7 +194,15 @@ h4, h5, h6 {
     float: left;
 }
 
-
+#footer {
+	border-top: solid 1px #666;
+	color: #333333;
+	text-align: center;
+	font-size: small;
+    padding: 16px 0px;
+    width: 600px;
+    margin: 36px auto 12px auto;
+}
 
 
 
