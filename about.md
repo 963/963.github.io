@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-**About**
+
 -------------
 I am currently a **MSc. Student**  in the **Computer Engineering** department. In my professional experience, i have worked as a **Developer** and as a **Penetration Tester**.
 
