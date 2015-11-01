@@ -9,6 +9,10 @@ I am currently a **MSc. Student**  in the **Computer Engineering** department. I
 
 My area of interest includes  tool development, attack research and  CTF challenges, defence strategies, penetration testing, post exploitation research. Also, mostly working with **Open Source** technology, a fanatic user of the **GNU/Linux**, obsessed with **info sec.**
 
+
+
+
+-------------
 **About the blog**
 -------------
 
