@@ -164,19 +164,19 @@ h4, h5, h6 {
 }
 
 .add {
-	font-size: 12pt;
+	font-size: 10pt;
 	text-align: right;
 	font-style: normal;
     margin-top: 20px;
 }
 
 .name {
-    font-size: 36px;
+    font-size: 30px;
     font-weight: bold;
 }
 
 .position {
-	font-size: 18pt;
+	font-size: 15pt;
 }
 
 .subposition {
@@ -300,7 +300,7 @@ pre code {
 
 #navbar {
 	text-align: center;
-    width: 860px;
+    width: 950px;
     margin: auto;
     margin-bottom: 42px;
 }
