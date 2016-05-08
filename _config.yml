@@ -3,7 +3,7 @@
 redcarpet:
   extensions: ["tables"]
 
-pygments:         true
+#pygments:         true
 
 # Permalinks
 permalink:        pretty
