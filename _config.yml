@@ -11,7 +11,8 @@ permalink:        pretty
 # Setup
 title:            Mithat Gögebakan
 tagline:          ''
-url:              http://www.mithatgogebakan.com
+url:              https://www.mithat.org
+enforce_ssl:      www.mithat.org
 shorturl:         mithatgogebakan.com
 
 author:
