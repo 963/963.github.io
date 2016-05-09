@@ -14,7 +14,6 @@ My area of interest includes  tool development, attack research and  CTF challen
 
 -------------
 **About the blog**
--------------
 
 This URL is the online home for my security tips ,CTF writeups, network tricks, development , and other random subjects.
 
